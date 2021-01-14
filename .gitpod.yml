@@ -3,4 +3,4 @@ ports:
   onOpen: open-preview
 tasks:
 - init: npm install
-  command: gatsby develop
+  command: npm run develop
